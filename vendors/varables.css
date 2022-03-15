@@ -1,5 +1,10 @@
 :root {
   --default-font: Inter, Arial, sans-serif;
-  --back-color: #000;
+  --black-color: #000;
+  --black-color-rgb: 0,0,0;
   --white-color: #fff;
+  --brown-color-rgb: 84, 84, 84;
+  --gray-color-rgb: 193, 193, 193;
+  --brown-color: #545454;
+  --default-content-width: 880px;
 }

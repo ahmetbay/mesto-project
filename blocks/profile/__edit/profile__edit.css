@@ -1,0 +1,26 @@
+.profile__edit {
+  grid-area: edit;
+  width: 24px;
+  height: 24px;
+  background-image: url("../../../images/pencle.svg");
+  background-repeat: no-repeat;
+  background-position: center;
+  padding: 6px;
+  border: 1px solid var(--white-color);
+  background-color: transparent;
+  align-self: center;
+  transition: opacity .1s linear;
+}
+
+.profile__edit:hover {
+  cursor: pointer;
+  opacity: .6;
+}
+
+@media screen and (max-width: 720px) {
+  .profile__edit {
+    width: 18px;
+    height: 18px;
+    padding: 5px;
+  }
+}
