@@ -18,12 +18,13 @@
 **Стили используют переменные которые описаны в verndors/varables.css**
 
 - --default-font: Inter, Arial, sans-serif;
-- --back-color: #000;
+- --black-color: #000;
+- --black-color-rgb: 0,0,0;
 - --white-color: #fff;
-- --brown-color: #2a2c2f;
-- --brown-color-rgb: 42, 44, 47;
-- --gray-color: #aaa;
--
+- --brown-color-rgb: 84, 84, 84;
+- --gray-color-rgb: 193, 193, 193;
+- --brown-color: #545454;
+- --default-content-width: 880px;
 
 **Figma**
 
